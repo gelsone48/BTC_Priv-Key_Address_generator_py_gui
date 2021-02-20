@@ -2,6 +2,11 @@
 Python3 GUI application
 Generates BTC address and private key
 if the address already exists it will show its balance."HackTool"
+
+run python3 BTC_Key_gen.py
+>> enter value in entry box
+>> each number will generate a different address accordenly
+
 -----------------
 ## Note: using this app is the responsibility of the user Not Me
 -----------------
