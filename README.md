@@ -10,7 +10,7 @@ if the address already exists it will show its balance."HackTool"
 -------
 
 **Application**
-![alt tag](https://github.com/almosally/BTC_Priv-Key_Address_generator_py_gui/blob/master/screenshot.PNG?raw=true)
+![alt tag](https://github.com/almosally/BTC_Priv-Key_Address_generator_py_gui/blob/main/screenshot.PNG?raw=true)
 
 -------
 
