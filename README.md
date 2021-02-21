@@ -11,6 +11,7 @@ run python3 BTC_Key_gen.py
 ## Note: using this app is the responsibility of the user Not Me
 -----------------
 
+req: pip install bit
 
 -------
 
