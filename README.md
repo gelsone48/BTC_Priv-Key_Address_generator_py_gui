@@ -24,7 +24,7 @@ req: pip install bit
 -------
 
 **for Donation **
-BTC : 1Q7AoNhztpN84NivT6JApTcoqcQxknLg1f
+BTC : 1EXRumoPX3NVrJYjqRRWUwFx9MBDsUUKpx
 
 -------
 
